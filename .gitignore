@@ -118,3 +118,6 @@ media/
 # !**/migrations/__init__.py
 project_SOH/project_SOH/__pycache__/settings.cpython-37.pyc
 project_SOH/project_SOH/__pycache__/urls.cpython-37.pyc
+project_SOH/project_SOH/__pycache__/settings.cpython-37.pyc
+project_SOH/project_SOH/__pycache__/settings.cpython-37.pyc
+*.pyc
